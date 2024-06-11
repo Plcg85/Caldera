@@ -1,3 +1,4 @@
+![Esquema](https://github.com/Plcg85/Caldera/assets/168082799/68560ee1-67f5-4b83-b104-18112a78f29c)
 Hola!!. Este proyecto fue creado a medida para controlar la calefacción de casa por medio de raspberry pi, arduino y un relé que acciona la bomba del agua caliente de los radiadores (Ver esquema.jpg). Tiene 2 partes.
 La primera parte es el programa principal que se ejecuta en una raspberry pi 3b. Este programa hace varias cosas que enumero a continuación:
       1. Se comunica con otra raspberry pi  que está en el salón principal de la casa a traves de ssh-paramiko para saber la temperatura del salón cada poco tiempo.
