@@ -1,0 +1,4 @@
+si el descenso de temp es mayor que 0.3 por ejemplo una variable que se llame paro_descenso_rapido
+toma el valor true y entonces la bomba se para y cuando la temperatura este en ascenso y sea mayor
+de 64 paro_descenso_rapido se pone a false y el funcionamiento seria normal. esta variable sera 
+siempre false si esta activado paro forzoso.
